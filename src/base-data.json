@@ -1,0 +1,9 @@
+{
+  "lang": "de",
+  "title": "Boilerplate",
+  "keywords": "bootstrap, handelbarsjs, fontawesome",
+  "google_analytics": {
+    "active": false,
+    "id": ""
+  }
+}
